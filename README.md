@@ -19,9 +19,9 @@
 
 - 💬 Ask me about **Reactjs & React-Native** 
 
-- 📫 How to reach me **haseebhowto@gmail.com**
+- 📫 Reach me at **haseebhowto@gmail.com**
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;">Connect with me 🤝 </h3>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;">Connect with me 🤝 </h3><br />
 
 <p align="center">
 
