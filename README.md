@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://haseeb-portfolio.netlify.app" target="blank">Haseeb Ahmed</a></h1>
-<h3 align="center">A passionate Full Stack developer from Rawalpindi, Pakistan &#00401A</h3>
+<h4 align="center">A passionate Full Stack developer from Rawalpindi, Pakistan</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IamHaseebAhmad&label=Profile%20views&color=0e75b6&style=flat" alt="IamHaseebAhmad" /> </p>
 
