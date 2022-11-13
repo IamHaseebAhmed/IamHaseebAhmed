@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Reactjs & React-Native** 
 
-- 📫 Reach me at **Email**
+- 📫 Reach me at <a href="mailto:haseebhowto@gmail.com" target="blank">**Email**</a>
 
 
 <p>
